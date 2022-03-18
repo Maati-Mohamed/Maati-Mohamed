@@ -1,6 +1,6 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Maati Mohamed</h1>
 
-## Backend developer
+<h3 align="center">Im Backend developer</h3>
 
 <div align="center">
   <img height="350px" src="./laptop.png" />
@@ -11,8 +11,8 @@
 
 <img  src="./image.svg" height="290px" align="right" />
 
-- 🌱 I’m currently Backend developer ...
-- 
+- 🌱 I’m Backend developer ...
+ 
 - 🌱 And some knowloge in frontend  ...
  
 - 🤔  I’m working on improving my skills in Competitive Programming ...
