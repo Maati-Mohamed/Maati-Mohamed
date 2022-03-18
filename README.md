@@ -1,7 +1,9 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Maati Mohamed</h1>
 
+## Backend developer
+
 <div align="center">
-  <img height="150px" src="./laptop.png" />
+  <img height="350px" src="./laptop.png" />
   
 </div>
 
@@ -9,9 +11,9 @@
 
 <img  src="./image.svg" height="290px" align="right" />
 
-- 🌱 I’m currently learning laravel ...
- 
-- 👯 I’m looking to collaborate on any big system that used laravel...
+- 🌱 I’m currently Backend developer ...
+- 
+- 🌱 And some knowloge in frontend  ...
  
 - 🤔  I’m working on improving my skills in Competitive Programming ...
 
