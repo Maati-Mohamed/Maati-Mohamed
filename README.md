@@ -1,6 +1,6 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Maati Mohamed</h1>
 
-<h3 align="center">Im Backend developer</h3>
+<h3 align="center">Backend developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Maati-Mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="maati-mohamed" /></p>
 <div align="center">
   
